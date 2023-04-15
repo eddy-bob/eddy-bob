@@ -1,9 +1,12 @@
 ### Hi there 👋
--
+- ✌ I am a fullstack software engineer with solid industry experience working with vue.js,node.js/express and nest.js
+- 👐 I work comfortably with ORMs such as typeorm and type-goose, relational database such as Mysql, mongodb, docker containerization solution and redis for  in memory  data caching.
+- 💭 I have a substantial amount of experience working with cloud infrastructures such as Heroku and AWS
 - 🔭 I’m currently working on 'https://buzzz-chi.vercel.app/'
-- 🌱 I’m currently learning solidity and flutter
+- 🌱 I’m currently learning solidity for smart contracts and flutter for mobile app development
 - 👯 I’m looking to collaborate on challenging real world projects that will make an impact globally.
-- 💬 Ask me about anything related to tech and i will be morre than please  to reply.
+- 😎 I am currently available for fulltime and contract tech roles and can resume immediately
+- 💬 Ask me about anything related to tech and i will be more than pleased to reply.
      I am a lover of a decentralized world and would most definently like to talk about web3 and blockchain.
 - 📫 How to reach me: you can reach me on a couple of networks.
 
@@ -13,7 +16,6 @@
       whatsapp:'+2349075219854'
   
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 1:i play two musical instruments (Base Guitar and Piano)
-                2:I am a really great  problem solver 
+- ⚡ Fun fact: I play two musical instruments (Base Guitar and Piano),i am a really great  problem solver  and i pick up new technologies real quick
                 
 -->
