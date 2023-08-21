@@ -13,7 +13,6 @@
       linkedin:'https://linkedin.com/in/eddy-madu';
       facebook:'eddy madu';
       twitter:'eddymadu90';
-      whatsapp:'+2349075219854'
   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play two musical instruments (Base Guitar and Piano),i am a really great  problem solver  and i pick up new technologies real quick
