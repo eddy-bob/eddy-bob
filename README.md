@@ -2,7 +2,7 @@
 - ✌ I am a fullstack software engineer with solid industry experience working with vue.js,node.js/express and nest.js
 - 👐 I work comfortably with ORMs such as typeorm and type-goose, relational database such as Mysql, mongodb, docker containerization solution and redis for  in memory  data caching.
 - 💭 I have a substantial amount of experience working with cloud infrastructures such as Heroku and AWS
-- 🔭 I’m currently working on 'https://buzzz-chi.vercel.app/'
+- 🔭 I’m currently working on 'https://www.yourbuzzz.com/'
 - 🌱 I’m currently learning solidity for smart contracts and flutter for mobile app development
 - 👯 I’m looking to collaborate on challenging real world projects that will make an impact globally.
 - 😎 I am currently available for fulltime and contract tech roles and can resume immediately
